@@ -1,0 +1,52 @@
+ INFO root [2016-12-11 21:54:46,181] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.100.2 ( 192.168.100.2:50312 )
+ INFO root [2016-12-11 21:54:46,182] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.100.2:50312, SOMAXCONN=5.
+ INFO root [2016-12-11 21:54:46,247] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-12-11 21:54:46,248] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-12-11 21:54:46,357] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-12-11 21:54:46,358] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-12-11 21:54:46,358] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-12-11 21:54:46,359] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ INFO root [2016-12-11 21:54:46,359] - ThreadPool::addTask: new Thread, currThreadCount: 6
+ INFO root [2016-12-11 21:54:46,359] - ThreadPool::addTask: new Thread, currThreadCount: 7
+ INFO root [2016-12-11 21:54:46,360] - ThreadPool::addTask: new Thread, currThreadCount: 8
+ WARN root [2016-12-11 21:54:46,692] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:46,693] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:46,694] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:46,694] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:46,695] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:46,695] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:46,696] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20678, errorno=10048
+ WARN root [2016-12-11 21:54:47,040] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20802, errorno=10048
+ WARN root [2016-12-11 21:54:47,041] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20802, errorno=10048
+ WARN root [2016-12-11 21:54:47,041] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20802, errorno=10048
+ WARN root [2016-12-11 21:54:47,041] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20802, errorno=10048
+ WARN root [2016-12-11 21:54:47,043] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20802, errorno=10048
+ WARN root [2016-12-11 21:54:47,390] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20974, errorno=10048
+ WARN root [2016-12-11 21:54:47,390] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20974, errorno=10048
+ WARN root [2016-12-11 21:54:47,391] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20974, errorno=10048
+ WARN root [2016-12-11 21:54:47,392] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20974, errorno=10048
+ WARN root [2016-12-11 21:54:47,737] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20097, errorno=10048
+ WARN root [2016-12-11 21:54:47,738] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20097, errorno=10048
+ WARN root [2016-12-11 21:54:47,739] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20097, errorno=10048
+ WARN root [2016-12-11 21:54:48,086] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20218, errorno=10048
+ WARN root [2016-12-11 21:54:48,088] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20218, errorno=10048
+ WARN root [2016-12-11 21:54:48,433] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20393, errorno=10048
+ERROR root [2016-12-11 21:54:52,364] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:52,708] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:52,712] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:53,057] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:53,404] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:53,753] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:54,102] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-12-11 21:54:54,449] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+DEBUG root [2016-12-11 21:55:18,745] - ThreadPool::destroy(): starting size 8.
+ WARN root [2016-12-11 21:55:19,046] - ThreadPool::destroy(): waiting for thread(8)[0x2312188,0x2311fe8,0x237e400,0x237eb50,0x237ec88,0x237dff0,0x237e190,0x237e670,], try=1
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x2312188
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x2311fe8
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x237e400
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x237eb50
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x237ec88
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x237dff0
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x237e190
+DEBUG root [2016-12-11 21:55:19,449] - TPThread::~TPThread(): 0x237e670
+DEBUG root [2016-12-11 21:55:19,449] - ThreadPool::destroy(): successfully!
